@@ -71,7 +71,8 @@ public class Price {
 	    	  prlist.productsList();
 	      }
 	      else if(cho==2) {
-	    	  Driver.main(null);
+	    	  System.out.println("*****ThankYou*****");
+	    	  
 	      }
 	      else {
 			System.out.println("Please choose correct option ");
